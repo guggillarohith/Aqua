@@ -1,0 +1,5 @@
+node_modules/*
+npm-debug.log
+P1Data.txt
+DO-Data/*
+allLogs.log
