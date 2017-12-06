@@ -1,0 +1,54 @@
+[2017-09-13 11:48:06.809] [INFO] logs - Testing logger
+[2017-09-13 11:48:10.480] [INFO] logs - got a request in /
+[2017-09-13 11:48:16.032] [INFO] logs - got an /readPin request
+[2017-09-13 11:48:49.061] [INFO] logs - got an /onSwitch request
+[2017-09-13 11:48:49.153] [INFO] logs - Written to pin number: 7
+[2017-09-13 11:48:55.630] [INFO] logs - got an /offSwitch request
+[2017-09-13 11:49:00.638] [INFO] logs - Written to pin number: 7
+[2017-09-13 11:49:13.779] [INFO] logs - got an /readPin request
+[2017-09-13 12:34:39.725] [INFO] logs - Testing logger
+[2017-09-13 12:34:51.071] [INFO] logs - got an /readPin request
+[2017-09-13 12:36:07.646] [INFO] logs - got an /offSwitch request
+[2017-09-13 12:36:12.659] [ERROR] logs - err in switch on : Error: Pin has not been exported for write
+[2017-09-13 12:36:32.647] [INFO] logs - got an /onSwitch request
+[2017-09-13 12:36:32.738] [INFO] logs - Written to pin number: 7
+[2017-09-13 12:36:35.826] [INFO] logs - got P1 DO Data as: [object Object]
+[2017-09-13 12:36:35.833] [INFO] logs - p1 Data to save :  [object Object]
+[2017-09-13 12:36:36.083] [INFO] logs - Data Saved! in file
+[2017-09-13 12:36:52.672] [INFO] logs - got an /readPin request
+[2017-09-13 12:37:34.396] [INFO] logs - got an /offSwitch request
+[2017-09-13 12:37:39.401] [INFO] logs - Written to pin number: 7
+[2017-09-13 12:37:53.701] [INFO] logs - got an /readPin request
+[2017-09-13 12:40:25.986] [INFO] logs - Testing logger
+[2017-09-13 12:40:30.738] [INFO] logs - got an /readPin request
+[2017-09-13 12:40:43.209] [INFO] logs - got an /offSwitch request
+[2017-09-13 12:40:48.222] [ERROR] logs - err in switch on : Error: Pin has not been exported for write
+[2017-09-13 12:40:55.186] [INFO] logs - got an /onSwitch request
+[2017-09-13 12:40:55.281] [INFO] logs - Written to pin number: 7
+[2017-09-13 12:41:07.393] [INFO] logs - got an /readPin request
+[2017-09-13 12:41:18.977] [INFO] logs - got an /offSwitch request
+[2017-09-13 12:41:23.984] [INFO] logs - Written to pin number: 7
+[2017-09-13 12:41:36.171] [INFO] logs - got P1 DO Data as: [object Object]
+[2017-09-13 12:41:36.177] [INFO] logs - p1 Data to save :  [object Object]
+[2017-09-13 12:41:36.434] [INFO] logs - Data Saved! in file
+[2017-09-13 12:41:38.497] [INFO] logs - got an /readPin request
+[2017-09-13 13:25:17.167] [INFO] logs - Testing logger
+[2017-09-13 13:25:26.239] [INFO] logs - got a request in /
+[2017-09-13 13:25:34.141] [INFO] logs - got an /readPin request
+[2017-09-13 13:25:45.107] [INFO] logs - got an /offSwitch request
+[2017-09-13 13:25:50.120] [ERROR] logs - err in switch on : Error: Pin has not been exported for write
+[2017-09-13 13:25:57.418] [INFO] logs - got an /onSwitch request
+[2017-09-13 13:25:57.511] [INFO] logs - Written to pin number: 7
+[2017-09-13 13:26:11.864] [INFO] logs - got an /onSwitch request
+[2017-09-13 13:26:11.871] [INFO] logs - Pin Status is true skipping On switch Req
+[2017-09-13 13:26:23.094] [INFO] logs - got an /readPin request
+[2017-09-13 13:26:31.237] [INFO] logs - got an /onSwitch request
+[2017-09-13 13:26:31.240] [INFO] logs - Pin Status is true skipping On switch Req
+[2017-09-13 13:26:37.100] [INFO] logs - got P1 DO Data as: [object Object]
+[2017-09-13 13:26:37.107] [INFO] logs - p1 Data to save :  [object Object]
+[2017-09-13 13:26:37.108] [INFO] logs - DOSAT less then 4 switch on areator
+[2017-09-13 13:26:37.363] [INFO] logs - Data Saved! in file
+[2017-09-13 13:26:37.366] [INFO] logs - Pin Status is true skipping onSwitch Cmd
+[2017-09-13 13:26:37.952] [INFO] logs - got an /offSwitch request
+[2017-09-13 13:26:42.959] [INFO] logs - Written to pin number: 7
+[2017-09-13 13:26:46.993] [INFO] logs - got an /readPin request
